@@ -5,7 +5,7 @@ This workshop helps you get started with a basic mixed-signal FPGA flow, which c
 [![risc-vMythWorkshopLOGO](https://osfpga.org/wp-content/uploads/2022/05/Cloud-based-RISC-V-on-FPGA-and-OpenFPGA-5.png)](https://osfpga.org/osfpga-training/)
 
 ## Brief Description of the Workshop
-* Introductio to FPGA IPs
+* Introduction to FPGA IPs
 * Mixed Signals SOC details
 * Mixed Signal FPGA Flow
 
@@ -15,9 +15,6 @@ This workshop helps you get started with a basic mixed-signal FPGA flow, which c
   * [Introduction](#Introduction)
   * [RVMYTH RISC-V Core](#RVMYTH-RISC-V-Core)
   * [TL-Verilog](#TL-Verilog)
-    * [64-bit Number System For Unsigned Numbers](#64-bit-Number-System-For-Unsigned-Numbers) 
-    * [64-bit Number System For Signed Numbers](#64-bit-Number-System-For-Signed-Numbers)
-    * [Lab for Signed and Unsigned Numbers](#Lab-for-Signed-and-Unsigned-Numbers)
 ***
 
 ## Introduction
